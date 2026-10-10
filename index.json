@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-uv",
+  "versions": [
+    {
+      "commit": "808fc710f75e7fede6c5eb0d8c280879a5fe58d2",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:15:22.163019+00:00"
+    }
+  ]
+}
