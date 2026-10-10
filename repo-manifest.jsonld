@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-uv/commit/808fc710f75e7fede6c5eb0d8c280879a5fe58d2",
       "git:hexsha": "808fc710f75e7fede6c5eb0d8c280879a5fe58d2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-uv/commit/91f23274fb69dfcb26632710356a5b41dd28dde5",
